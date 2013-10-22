@@ -1,1 +1,3 @@
-k
+touch tmp/.gitkeep
+git add tmp/
+git commit -m "we always want the tmp dir"
